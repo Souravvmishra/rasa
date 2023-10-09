@@ -1,7 +1,6 @@
 pyttsx3
 datetime
 wikipedia
-smtplib
 webbrowser
 psutil
 pyautogui
