@@ -117,7 +117,7 @@ pyttsx3==2.90
 pytz==2019.3
 PyYAML==5.3.1
 questionary==1.5.2
-rasa==2.2.2
+rasa==3.1.1
 rasa-sdk==2.2.0
 rasa-x==0.32.2
 redis==3.5.3
