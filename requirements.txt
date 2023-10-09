@@ -1,6 +1,5 @@
 pyttsx3
 datetime
-speech_recognition
 wikipedia
 smtplib
 webbrowser
