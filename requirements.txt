@@ -97,7 +97,7 @@ psutil==5.8.0
 psycopg2-binary==2.8.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/sk205/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+PyAudio 
 pycparser==2.20
 pydot==1.4.1
 pyjsparser==2.7.1
