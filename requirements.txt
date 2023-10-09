@@ -3,7 +3,6 @@ datetime
 wikipedia
 psutil
 pyautogui
-os
 random
 wolframalpha
 json
