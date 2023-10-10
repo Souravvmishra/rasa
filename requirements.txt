@@ -1,0 +1,16 @@
+SpeechRecognition 
+streamlit
+requests
+pyttsx3
+datetime
+smtplib
+webbrowser
+psutil
+pyautogui
+urllib
+wikipedia
+os
+random
+wolframalpha
+json
+requests
