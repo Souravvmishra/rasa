@@ -5,8 +5,6 @@ pyttsx3
 datetime
 psutil
 pyautogui
-urllib
-wikipedia
 os
 random
 wolframalpha
