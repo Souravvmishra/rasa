@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 import speech_recognition as sr
 import pyttsx3
 
