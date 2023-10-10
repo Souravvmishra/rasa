@@ -5,8 +5,3 @@ pyttsx3
 datetime
 psutil
 pyautogui
-os
-random
-wolframalpha
-json
-requests
